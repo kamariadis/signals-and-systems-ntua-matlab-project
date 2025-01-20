@@ -27,7 +27,7 @@ title("Frequency Response of Echo Filter (c = 0.8”);
 figure(3);
 zplane(b1,a);
 grid on;
-title("Zero - Pole Diagramm of Echo Filter (c = 0.4)");
+title('Zero - Pole Diagramm of Echo Filter (c = 0.4)");
 figure(4);
 zplane(b2,a);
 grid on;
