@@ -225,7 +225,7 @@ figure(3 + s);
 plot(abs(dft1(1:6000)));
 grid on;
 title('DFT of Flute sequence’);
-xlabel('Frequency (Hz)');
+xlabel( 'Frequency (Hz)');
 
 %(δ)
 
